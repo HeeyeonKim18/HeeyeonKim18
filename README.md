@@ -15,7 +15,7 @@
 <br/><br/>
 
 ### CHANNEL 🗂️
-[https://1.theapplemango.com/](https://become-programmer.tistory.com)
+[https://become-programmer.tistory.com](https://become-programmer.tistory.com)
 <br/><br/>
 
 ### ⚒️ SKILLS ⚒️
