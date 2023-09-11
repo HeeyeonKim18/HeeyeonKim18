@@ -5,7 +5,6 @@
 ### WHO I AM 👩‍💻
 김희연(Kim Heeyeon)
 <br/> 1998.11.18
-<br/> 부산대학교 관광컨벤션학과 졸업 
 <br/><br/>
 
 ### EDUCATION 🏫
