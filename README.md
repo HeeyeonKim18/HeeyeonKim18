@@ -18,7 +18,7 @@
 <br/><br/>
 
 ### ⚒️ SKILLS ⚒️
-**💡 Maily used**
+**💡 Mainly used**
 
 <img src="https://img.shields.io/badge/JAVA-brightgreen?style=for-the-badge&logo=JAVA"> &nbsp; <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=SPRING"> &nbsp; <img src="https://img.shields.io/badge/spring boot-yellogreen?style=for-the-badge&logo=SPRINGBOOT"> &nbsp;
 <img src="https://img.shields.io/badge/Mybatis-yellow?style=for-the-badge&logo=MYBATIS"> &nbsp; <img src="https://img.shields.io/badge/jpa-orange?style=for-the-badge&logo=JPA">
