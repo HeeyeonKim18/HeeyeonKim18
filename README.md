@@ -7,11 +7,13 @@
 <br/> 1998.11.18
 <br/><br/>
 
+<!-- 
 ### EDUCATION 🏫
 (2022.03 ~ 09) 
 <br/> 이젠 컴퓨터 아카데미 개발원
 <br/> **JAVA 개발자 양성 과정 수료**
 <br/><br/>
+-->
 
 ### CHANNEL 🗂️
 [https://become-programmer.tistory.com](https://become-programmer.tistory.com)
