@@ -16,7 +16,7 @@
 -->
 
 ### CHANNEL 🗂️
-[https://become-programmer.tistory.com](https://become-programmer.tistory.com)
+[기술 블로그](https://become-programmer.tistory.com)
 <br/><br/>
 
 ### ⚒️ SKILLS ⚒️
