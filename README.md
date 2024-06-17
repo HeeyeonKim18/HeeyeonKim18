@@ -36,7 +36,7 @@
  -->
 <br/><br/>
 
-Contributions are inaccurate, as my local Git commit email wasn't connected to my account <br/> and contributions have not been counted since Dec 2023 :(
+Contributions are inaccurate, as my local Git commit email wasn't connected to my account <br/> and contributions have not been counted since May 2023 :(
 <br/><br/>
 ![heeyeonkim18's github stats](https://github-readme-stats.vercel.app/api?username=heeyeonkim18&show_icons=true&count_private=true)
 
