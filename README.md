@@ -35,6 +35,9 @@
 <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=JAVA"> &nbsp;<img src="https://img.shields.io/badge/CSS-violet?style=for-the-badge&logo=JAVA"> &nbsp;<img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=JAVA"> &nbsp;<img src="https://img.shields.io/badge/Jquery-lightgray?style=for-the-badge&logo=JAVA"> &nbsp;<img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=JAVA"> 
  -->
 <br/><br/>
+
+Contributions are inaccurate, as my local Git commit email wasn't connected to my account <br/> and contributions have not been counted since Dec 2023 :(
+<br/><br/>
 ![heeyeonkim18's github stats](https://github-readme-stats.vercel.app/api?username=heeyeonkim18&show_icons=true&count_private=true)
 
 </div>
