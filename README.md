@@ -3,7 +3,7 @@
 <div align=center> 
 
 ### WHO I AM 👩‍💻
-김희연(Kim Heeyeon)
+김희연(Chloe Kim)
 <br/> 1998.11.18
 <br/><br/>
 
@@ -16,7 +16,7 @@
 -->
 
 ### CHANNEL 🗂️
-[기술 블로그](https://become-programmer.tistory.com)
+[Blog](https://become-programmer.tistory.com)
 <br/><br/>
 
 ### ⚒️ SKILLS ⚒️
